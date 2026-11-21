@@ -1,0 +1,16 @@
+[
+  {
+    "expense_id": 1,
+    "amount": 6787.0,
+    "category": "Food",
+    "description": "Lunch",
+    "date": "8999-89-88"
+  },
+  {
+    "expense_id": 2,
+    "amount": 89889.0,
+    "category": "Dance party",
+    "description": "Birthday",
+    "date": "9999-88-99"
+  }
+]
