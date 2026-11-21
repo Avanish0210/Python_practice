@@ -1,0 +1,1 @@
+#the flow is frist we create a bank then we create a customer then we create an account for the customer and then we can perform transactions on the account
